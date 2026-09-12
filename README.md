@@ -8,21 +8,6 @@ I enjoy building things, understanding how they work, and improving them step by
 
 ---
 
-## What I work with
-
-- Python
-- FastAPI
-- PostgreSQL
-- SQLAlchemy
-- Docker
-- REST APIs
-- ETL & Data Pipelines
-- LLMs & RAG
-- AI Agents
-- Git
-
----
-
 ## Featured Projects
 
 ### Educational Platform
