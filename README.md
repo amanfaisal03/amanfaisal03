@@ -82,9 +82,4 @@ Yarmouk University · 2021 – 2025
 - Learning by building real projects
 - Always trying to write cleaner and more maintainable code
 
----
 
-## Let's connect
-
-- LinkedIn: [Aman Alobaytha](YOUR_LINKEDIN_URL)
-- Email: amanalobaytha@gmail.com
