@@ -1,6 +1,6 @@
 # Hi, I'm Aman
 
-I'm a Software Engineer based in Amman, Jordan.
+I'm a Software Engineer 
 
 I mainly work with Python and backend development, and I also have experience building AI-powered applications and data-driven systems.
 
